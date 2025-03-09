@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <FLOW VERSION="3.0" CLEANUP="true">
+  <COMMENT></COMMENT>
 
   <!-- nodes -->
 
@@ -747,7 +748,7 @@
 </MAPCOPY>
 </MAP>
 
-<BRANCH TIMEOUT="" SWITCH="/header/lines/content-type">
+<BRANCH TIMEOUT="" SWITCH="/header/lines/Content-Type">
   <COMMENT></COMMENT>
 
   <!-- nodes -->
